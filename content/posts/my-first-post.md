@@ -1,7 +1,7 @@
 ---
 title: "hogoで静的サイトを作ってみた"
 date: 2021-02-20T14:28:15+09:00
-draft: true
+draft: false
 ---
 
 ### けっこう難しい

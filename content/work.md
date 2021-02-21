@@ -6,9 +6,6 @@ aliases = ["work-us","work-hugo","work"]
 author = "TARUTARU"
 +++
 
-### このページについて
-- 人知れず書いてきたものをまとめてみようと思い立ち、なんとかまとまればいいなと進めているページ
-
 ### 今まで書いたもの
 - ポエム系
   - [のほほんおじさんのアウトプット](https://kothiba538.hatenablog.com/)

@@ -1,7 +1,7 @@
 theme = "soho"
 baseurl = "https://kothiba.github.io/tarutaru-life/"
 languageCode = "ja"
-#title = "Soho Theme"
+title = "TARUTARU-LIFE"
 DefaultContentLanguage = "ja"
 enableInlineShortcodes = true
 summarylength = 10

@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on</title><link>https://kothiba.github.io/tarutaru-life/posts/</link><description>Recent content in Posts on</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 21 Feb 2021 13:51:49 +0900</lastBuildDate><atom:link href="https://kothiba.github.io/tarutaru-life/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Test</title><link>https://kothiba.github.io/tarutaru-life/posts/test/</link><pubDate>Sun, 21 Feb 2021 13:51:49 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/test/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on</title><link>https://kothiba.github.io/tarutaru-life/posts/</link><description>Recent content in Posts on</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 21 Feb 2021 13:51:49 +0900</lastBuildDate><atom:link href="https://kothiba.github.io/tarutaru-life/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>hugo残念なハマり方、、、</title><link>https://kothiba.github.io/tarutaru-life/posts/test/</link><pubDate>Sun, 21 Feb 2021 13:51:49 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/test/</guid><description>試行錯誤したけど、、、 Github Pagesへの自動登録など色々とやっていて、netlifyにもアップしていたけど、トップ画面とPostの中身が一向に見えなかった、、、
+原因は title: &amp;ldquo;hugo残念なハマり方、、、&amp;rdquo; date: 2021-02-21T13:51:49+09:00 draft: false draftをtrueにしていたから。</description></item><item><title>近所の神社にお世話になる</title><link>https://kothiba.github.io/tarutaru-life/posts/post/</link><pubDate>Sat, 20 Feb 2021 16:09:44 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/post/</guid><description>厄払いをして頂いた 身体が重いので、散歩をせねばと思い立った
+近くにある県立公園や由緒正しき神社にお参りにいっていると、そういえば前厄だったことを思い出した
+厄払いをして頂いた
+気分が一新した
+思い通りにいかぬことが多いが、思い通りにいくことが厄の可能性だってある
+それくらい思い至らぬことは多いし、考えが浅はかなのは自分が一番知っている
+一喜一憂せずに継続して散歩をしながらしっかりとお参りをして、日々を愚直に生きていきたい</description></item><item><title>hogoで静的サイトを作ってみた</title><link>https://kothiba.github.io/tarutaru-life/posts/my-first-post/</link><pubDate>Sat, 20 Feb 2021 14:28:15 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/my-first-post/</guid><description>けっこう難しい よくある例や本などの例ででてくるanankeであれば動くのに、ちょっとでも違うテーマを利用すると途端に動かなくなる、、、
+動いたテーマはsoho でも、これは動いた。
+Soho | Hugo Themes
+で、このテーマの中のexampleSiteのディレクトリ構成を真似したらそれなりに動いた！
+なので、これを機に今までの人生でアウトプットしてきた、しょうもないものたちをまとめていきたい。ライフワーク的にね。</description></item></channel></rss>

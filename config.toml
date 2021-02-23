@@ -23,20 +23,20 @@ mainSections = ["posts"]
 ## Set custom theme color.
 # themeColor = "#fc2803"
 
-  [[params.socialIcons]]
-  icon = "fa-linkedin"
-  title = "Linkedin"
-  url = "#"
+  #[[params.socialIcons]]
+  #icon = "fa-linkedin"
+  #title = "Linkedin"
+  #url = "#"
 
   [[params.socialIcons]]
   icon = "fa-github"
   title = "GitHub"
-  url = "https://github.com/alexandrevicenzi/soho"
+  url = "https://github.com/kothiba"
 
   [[params.socialIcons]]
   icon = "fa-twitter"
   title = "Twitter"
-  url = "#"
+  url = "https://twitter.com/kothiba"
 
 [taxonomies]
   series = "series"

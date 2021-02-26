@@ -8,10 +8,11 @@ summarylength = 10
 enableEmoji = true
 paginate = 5
 disqusShortname = "https-kothiba-github-io"
+googleAnalytics = "UA-190729144-1"
 
 [params]
 title = "TARUTARU-LIFE"
-description = "TARUTARU-LIFE.COM"
+description = "TARUTARU-LIFE"
 # gravatar = "soho@example.com"
 images = ["images/profile.png"]
 profilePicture = "images/taichi-aikon.jpg"

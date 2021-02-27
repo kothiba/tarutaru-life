@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on</title><link>https://kothiba.github.io/tarutaru-life/posts/</link><description>Recent content in Posts on</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Fri, 26 Feb 2021 06:20:35 +0900</lastBuildDate><atom:link href="https://kothiba.github.io/tarutaru-life/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>ホメオスタシスとの闘争</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-26-01/</link><pubDate>Fri, 26 Feb 2021 06:20:35 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-26-01/</guid><description>学問なんて社会に出たら役に立たないよ 「学問なんて社会に出たら役に立たないよ」
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on</title><link>https://kothiba.github.io/tarutaru-life/posts/</link><description>Recent content in Posts on</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 27 Feb 2021 15:51:16 +0900</lastBuildDate><atom:link href="https://kothiba.github.io/tarutaru-life/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>HugoにコメントとGoogle Analyticsを追加</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-27-01/</link><pubDate>Sat, 27 Feb 2021 15:51:16 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-27-01/</guid><description>最低限の機能は入れてみよう Hugoの良さはとてもシンプルなことだと思う
+WordPressのような管理画面もないし、はてなBlogのような管理者画面もないので、VScodeでMarkdownを追加してそこにメモ的にテキストを書いて、あとはgit pushすれば公開って形だ
+とても気楽だし、特に他人に見てもらうようなものでもないメモ的なものなので十分だと感じていた
+むしろ一切他人の目を気にしないような個人幻想的なものの発露の場所として機能しそうで良いなとも感じていた
+なのに、なのにだ
+なのに、最低限のコメントを受け付け方がいいかなとか、もし誰か自分以外の人が見てくれている可能性もあるのかなとか、なんて考えてしまうようになった
+しかたない、これが自分なのだから、、、
+DiscusとGoogle Analyticsを利用 ということでコメントにはDiscusをトラッキングにはGoogle Analyticsを利用してみた</description></item><item><title>ホメオスタシスとの闘争</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-26-01/</link><pubDate>Fri, 26 Feb 2021 06:20:35 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-26-01/</guid><description>学問なんて社会に出たら役に立たないよ 「学問なんて社会に出たら役に立たないよ」
 確かにオラオラの人たちはそういう風に言うだろうし、大抵の成功している人は自分の力で成功してきていると信じているのでオラオラだ
 オラオラは言葉に力があるし、言い負かされてしまうことが多い
 言い負かされて悔しいので、こんな誰からも読まれることのない場所に思いの丈をぶつけている

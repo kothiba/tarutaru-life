@@ -77,6 +77,19 @@ mainSections = ["posts"]
   weight = 20
   url = "/work/"
 
+  #[[menu.main]]
+  #name = "Categories"
+  #weight = 200
+  #identifier = "categories"
+  #url = "/categories/"
+
+  [[menu.main]]
+  name = "Tags"
+  weight = 200
+  identifier = "tags"
+  url = "/tags/"
+
+
 [markup]
 
   [markup.highlight]

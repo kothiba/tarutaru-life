@@ -1,4 +1,4 @@
 +++
-title = "Soho Theme"
-author = "Hugo Authors"
+title = "TARUTARU-LIFE"
+author = "TARUTARU"
 +++

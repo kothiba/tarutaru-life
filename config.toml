@@ -4,7 +4,7 @@ languageCode = "ja"
 #title = "TARUTARU-LIFE"
 DefaultContentLanguage = "ja"
 enableInlineShortcodes = true
-summarylength = 10
+summarylength = 5
 enableEmoji = true
 paginate = 5
 disqusShortname = "https-kothiba-github-io"
@@ -21,6 +21,7 @@ license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 builtWith = true
 mainSections = ["posts"]
+amazonJpAffiliate = "baumkuchen0f-22"
 
 ## Set custom theme color.
 # themeColor = "#fc2803"
@@ -48,24 +49,6 @@ mainSections = ["posts"]
 [menu]
 
   [[menu.main]]
-  name = "Posts"
-  weight = 100
-  identifier = "posts"
-  url = "/posts/"
-
-  #[[menu.main]]
-  #name = "Categories"
-  #weight = 200
-  #identifier = "categories"
-  #url = "/categories/"
-
-  #[[menu.main]]
-  #name = "Tags"
-  #weight = 200
-  #identifier = "tags"
-  #url = "/tags/"
-
-  [[menu.main]]
   name = "About"
   identifier = "about"
   weight = 10
@@ -77,17 +60,23 @@ mainSections = ["posts"]
   weight = 20
   url = "/work/"
 
-  #[[menu.main]]
-  #name = "Categories"
-  #weight = 200
-  #identifier = "categories"
-  #url = "/categories/"
+  [[menu.main]]
+  name = "Posts"
+  weight = 100
+  identifier = "posts"
+  url = "/posts/"
 
   [[menu.main]]
-  name = "Tags"
+  name = "Categories"
   weight = 200
-  identifier = "tags"
-  url = "/tags/"
+  identifier = "categories"
+  url = "/categories/"
+
+  #[[menu.main]]
+  #name = "Tags"
+  #weight = 200
+  #identifier = "tags"
+  #url = "/tags/"
 
 
 [markup]

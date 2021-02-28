@@ -1,48 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on</title><link>https://kothiba.github.io/tarutaru-life/posts/</link><description>Recent content in Posts on</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 27 Feb 2021 15:51:16 +0900</lastBuildDate><atom:link href="https://kothiba.github.io/tarutaru-life/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>HugoにコメントとGoogle Analyticsを追加</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-27-01/</link><pubDate>Sat, 27 Feb 2021 15:51:16 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-27-01/</guid><description>最低限の機能は入れてみよう Hugoの良さはとてもシンプルなことだと思う
 WordPressのような管理画面もないし、はてなBlogのような管理者画面もないので、VScodeでMarkdownを追加してそこにメモ的にテキストを書いて、あとはgit pushすれば公開って形だ
-とても気楽だし、特に他人に見てもらうようなものでもないメモ的なものなので十分だと感じていた
-むしろ一切他人の目を気にしないような個人幻想的なものの発露の場所として機能しそうで良いなとも感じていた
-なのに、なのにだ
-なのに、最低限のコメントを受け付け方がいいかなとか、もし誰か自分以外の人が見てくれている可能性もあるのかなとか、なんて考えてしまうようになった
-しかたない、これが自分なのだから、、、
-DiscusとGoogle Analyticsを利用 ということでコメントにはDiscusをトラッキングにはGoogle Analyticsを利用してみた</description></item><item><title>ホメオスタシスとの闘争</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-26-01/</link><pubDate>Fri, 26 Feb 2021 06:20:35 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-26-01/</guid><description>学問なんて社会に出たら役に立たないよ 「学問なんて社会に出たら役に立たないよ」
+とても気楽だし、特に他人に見てもらうようなものでもないメモ的なものなので十分だと感じていた</description></item><item><title>ホメオスタシスとの闘争</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-26-01/</link><pubDate>Fri, 26 Feb 2021 06:20:35 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-26-01/</guid><description>学問なんて社会に出たら役に立たないよ 「学問なんて社会に出たら役に立たないよ」
 確かにオラオラの人たちはそういう風に言うだろうし、大抵の成功している人は自分の力で成功してきていると信じているのでオラオラだ
-オラオラは言葉に力があるし、言い負かされてしまうことが多い
-言い負かされて悔しいので、こんな誰からも読まれることのない場所に思いの丈をぶつけている
-知識の更新が必要 で、そういうオラオラな人たちが作り上げた空気感
-実績に伴った抵抗の言葉もはばかれるような空気感、威圧感
-そういったものが社会の空気というか共同幻想になって、信じて疑うことのないものになっていると実感している</description></item><item><title>Pocketに保存して終わる人生</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-25-01/</link><pubDate>Thu, 25 Feb 2021 22:19:02 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-25-01/</guid><description>Pocketの読み上げ機能を利用する 気になる情報はとりあえずPocketに保存している
+オラオラは言葉に力があるし、言い負かされてしまうことが多い</description></item><item><title>Pocketに保存して終わる人生</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-25-01/</link><pubDate>Thu, 25 Feb 2021 22:19:02 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-25-01/</guid><description>Pocketの読み上げ機能を利用する 気になる情報はとりあえずPocketに保存している
 で、見返すことはほぼない、、、終了
 あの情報なんだったけ？となってPocketを見返しても大体欲しい情報は見つからない、、、悔しい
-まあ、そんなもんさ
-でも中には本当に読みたいと思っている記事もあって、そう思えているのは長くて1週間くらいだ
-この1週間の間に1回くらいはPocketを開いてその記事を見る
-でも、保存しているものに限って長文だったり、なかなか読み進めなかったり、、、
-ということで、読み上げ機能を使ってみた
-iPhoneやiPadでは読み上げしてくれる</description></item><item><title>「逆立」という言葉</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-24-01/</link><pubDate>Wed, 24 Feb 2021 23:27:52 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-24-01/</guid><description>『共同幻想論』での逆立という言葉 共同幻想論の中で「逆立」という言葉が出てくる
+まあ、そんなもんさ</description></item><item><title>「逆立」という言葉</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-24-01/</link><pubDate>Wed, 24 Feb 2021 23:27:52 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-24-01/</guid><description>『共同幻想論』での逆立という言葉 共同幻想論の中で「逆立」という言葉が出てくる
 個人幻想と共同幻想論は逆立する、なんていう使われ方をしている
-「対立」ではなく「逆立」という言葉を使うのはなぜか？
-正直、全くわからなかった
-でも以下のことを教えてもらって、なんとなく分かった気がしてきた
-共同幻想で使われる言葉は「法律」や「公文書」などで使われる言葉で成立している 個人幻想で使われる言葉は「詩」の言葉で成立している 確かに「詩」の言葉は個人の感覚を表すために紡がれるものだから、決して法律が書かれている文章のような言葉の使い方にはならないだろう</description></item><item><title>取り急ぎHugoでやっておきたいこと</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-23-01/</link><pubDate>Tue, 23 Feb 2021 08:30:17 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-23-01/</guid><description>Hugoでやりたいこと ブログカードの形式で参考サイトを載せたい → できた
-Iframelyを利用してみる
-Iframelyで生成したhtmlをmarkdownに直接記載しても表示されなかった</description></item><item><title>読書会：共同幻想論</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-22-01/</link><pubDate>Mon, 22 Feb 2021 08:15:42 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-22-01/</guid><description>共同幻想論で読書会 吉本隆明の『共同幻想論』を読書会のおかげで読了できた
+「対立」ではなく「逆立」という言葉を使うのはなぜか？</description></item><item><title>取り急ぎHugoでやっておきたいこと</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-23-01/</link><pubDate>Tue, 23 Feb 2021 08:30:17 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-23-01/</guid><description>Hugoでやりたいこと ブログカードの形式で参考サイトを載せたい → できた</description></item><item><title>読書会：共同幻想論</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-22-01/</link><pubDate>Mon, 22 Feb 2021 08:15:42 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-22-01/</guid><description>共同幻想論で読書会 吉本隆明の『共同幻想論』を読書会のおかげで読了できた
 共同幻想は一見悪そうなもの、個人が対抗していかないといけないものって感じを受けた 共同幻想からいかに自律して生きるかってことが大事だと、そういうことを言っているのかなと、自分で読んでいる時はそう受け取った
-でも、今回の読書会のおかげで、共同幻想には功も罪もあることがわかった
-自律を目指したところで、共同幻想を無視した純粋な個人幻想はただの自己満足にしかならないってことが重要だ
-これはこれまでに自分の人生を通じても、切に感じることだなと思う
-とにかく、共同幻想にも個人幻想にも安住するのは良くないってことだ
-すぐに勘違いしてどちらかに染まってしまう傾向が人にはある、というか自分にはあると切に感じる
-楽ではないけど、常に自分を疑いながら周囲との関係性の中でやっていかないとな</description></item><item><title>Hugo残念なハマり方、、、</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-21-01/</link><pubDate>Sun, 21 Feb 2021 13:51:49 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-21-01/</guid><description>試行錯誤したけど、、、 Github Pagesへの自動登録など色々とやっていて、netlifyにもアップしていたけど、トップ画面とPostの中身が一向に見えなかった、、、
-原因は draftをtrueにしていたから。
---- title: &amp;quot;hugo残念なハマり方、、、&amp;quot; date: 2021-02-21T13:51:49+09:00 draft: false --- ローカルで見れていたのは、hugo server -Dで起動していたからだった。ちゃんと意味を理解してコマンドを打たないとな、、、</description></item><item><title>近所の神社にお世話になる</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-20-02/</link><pubDate>Sat, 20 Feb 2021 16:09:44 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-20-02/</guid><description>厄払いをして頂いた 身体が重いので、散歩をせねばと思い立った
+でも、今回の読書会のおかげで、共同幻想には功も罪もあることがわかった</description></item><item><title>Hugo残念なハマり方、、、</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-21-01/</link><pubDate>Sun, 21 Feb 2021 13:51:49 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-21-01/</guid><description>試行錯誤したけど、、、 Github Pagesへの自動登録など色々とやっていて、netlifyにもアップしていたけど、トップ画面とPostの中身が一向に見えなかった、、、
+原因は draftをtrueにしていたから。</description></item><item><title>近所の神社にお世話になる</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-20-02/</link><pubDate>Sat, 20 Feb 2021 16:09:44 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-20-02/</guid><description>厄払いをして頂いた 身体が重いので、散歩をせねばと思い立った
 近くにある県立公園や由緒正しき神社にお参りにいっていると、そういえば前厄だったことを思い出した
 厄払いをして頂いた
-気分が一新した
-思い通りにいかぬことが多いが、思い通りにいくことが厄の可能性だってある
-それくらい思い至らぬことは多いし、考えが浅はかなのは自分が一番知っている
-一喜一憂せずに継続して散歩をしながらしっかりとお参りをして、日々を愚直に生きていきたい</description></item><item><title>Hugoで静的サイトを作ってみた</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-20-01/</link><pubDate>Sat, 20 Feb 2021 14:28:15 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-20-01/</guid><description>けっこう難しい よくある例や本などの例ででてくるanankeであれば動くのに、ちょっとでも違うテーマを利用すると途端に動かなくなる、、、
+気分が一新した</description></item><item><title>Hugoで静的サイトを作ってみた</title><link>https://kothiba.github.io/tarutaru-life/posts/2021-02-20-01/</link><pubDate>Sat, 20 Feb 2021 14:28:15 +0900</pubDate><guid>https://kothiba.github.io/tarutaru-life/posts/2021-02-20-01/</guid><description>けっこう難しい よくある例や本などの例ででてくるanankeであれば動くのに、ちょっとでも違うテーマを利用すると途端に動かなくなる、、、
 動いたテーマはsoho でも、これは動いた。
-Soho | Hugo Themes
-で、このテーマの中のexampleSiteのディレクトリ構成を真似したらそれなりに動いた！
-なので、これを機に今までの人生でアウトプットしてきた、しょうもないものたちをまとめていきたい。ライフワーク的にね。</description></item></channel></rss>
+Soho | Hugo Themes</description></item></channel></rss>

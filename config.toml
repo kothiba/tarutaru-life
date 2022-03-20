@@ -1,6 +1,6 @@
 theme = "soho"
-#baseurl = "https://kothiba.github.io/tarutaru-life/"
-baseurl = "https://tarutarulife.net/"
+baseurl = "https://kothiba.github.io/tarutaru-life/"
+#baseurl = "https://tarutarulife.net/"
 languageCode = "ja"
 #title = "TARUTARU-LIFE"
 DefaultContentLanguage = "ja"
